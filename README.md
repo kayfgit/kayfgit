@@ -9,4 +9,11 @@
   ███   ▀█▀   ███    █▀   ▀█████▀    ███        
   ▀                                             
 ```
-  
+# ABOUT
+Hobbies: 
+Projects:
+Stacks:
+# CONTACT
+Email:
+LinkedIn:
+Discord:
