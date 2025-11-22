@@ -16,7 +16,7 @@ I am currently focusing on learning Front End and Mobile developing.
 
 # Technologies:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
 
 # Projects
 
