@@ -51,9 +51,9 @@ It's my second mobile project, I made it basically for myself only, as I wanted 
 
 I also really like learning new languages! Here are some of them:
 
-Portuguese: My native language as I was born and raised in Brazil :)
-English: My second best language, I am pretty confident in it.
-Spanish: I never studied it seriously before, but I can easily read and understand it as it's very similar to portuguese.
-German: Basic level, I can read some simple texts (A1-A2) and it's the language i'm currently learning. 
-Japanese: I think I have the same level as a 6 year old after 14 months of learning.
-Russian: I know the alphabet.. that's it..
+**Portuguese**: My native language as I was born and raised in Brazil :)</br>
+**English**: My second best language, I am pretty confident in it.</br>
+**Spanish**: I never studied it seriously before, but I can easily read and understand it as it's very similar to portuguese.</br>
+**German**: Basic level, I can read some simple texts (A1-A2) and it's the language i'm currently learning.</br>
+**Japanese**: I think I have the same level as a 6 year old after 14 months of learning.</br>
+**Russian**: I know the alphabet.. that's it..
