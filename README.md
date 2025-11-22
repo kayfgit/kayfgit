@@ -5,8 +5,8 @@
  ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stacks: NeoVim / Typescript / Next / Expo / Git / React / HTML / CSS
 ▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
   ███▐██▄     ███    ███ ███   ███   ███           Email: kayfsgbusiness@gmail.com
-  ███ ▀███▄   ███    ███ ███   ███   ███           LinkedIn: ian-kayf
-  ██    ▀█▀   ███    █▀   ▀█████▀    ███           Discord: kayf                                             
+  ███ ▀███▄   ███    ███ ███   ███   ███           LinkedIn: https://www.linkedin.com/in/ian-kayf/
+  ██    ▀█▀   ███    █▀   ▀█████▀    ███           Discord: kayf
 ```
 # More About Me
 
@@ -57,9 +57,3 @@ Spanish: I never studied it seriously before, but I can easily read and understa
 German: Basic level, I can read some simple texts (A1-A2) and it's the language i'm currently learning. 
 Japanese: I think I have the same level as a 6 year old after 14 months of learning.
 Russian: I know the alphabet.. that's it..
-
-# Contact
-
-<div>
-   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ian-kayf/)
-</div>
