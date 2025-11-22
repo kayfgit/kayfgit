@@ -25,9 +25,10 @@ I am currently based in Brazil and focusing on perfecting my Front-End and Mobil
    <img alt="neovim" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
    <img alt="react/reactnative" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
 </div>
-</br>
+
 # Projects
-### [Copy of Craftzdog Website](https://github.com/kayfgit/copy-of-craftzdog-homepage)
+
+### [DevAsLife](https://github.com/kayfgit/copy-of-craftzdog-homepage)
 
 It's a copy of my favorite youtuber's website, he made a video about making it but as I watched I didn't understand anything he was doing, but I knew how to make it the way I learned, so I gave it a shot and made it myself.
 
