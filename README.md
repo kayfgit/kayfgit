@@ -1,6 +1,6 @@
 ```
    ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
-  ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: [Everything](https://github.com/kayfgit/copy-of-craftzdog-homepage) / Polyglot / Planes / Music
+  ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / Planes / Music
   ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Projects: Native Movie App / Website Copies / Font Testing Website /  Native Workout App
  ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stacks: NeoVim / Typescript / Next / Expo / Git / React / HTML / CSS
 ▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
