@@ -57,6 +57,12 @@ It's my second mobile project, I made it basically for myself only, as I wanted 
 
 **German**: Basic level, I can read some simple texts (A1-A2) and it's the language I'm currently prioritizing (It's really fun).</br>
 
-**Russian**: I know the alphabet.. that's it..</br>
+# Contact
 
-**Korean**: I also know just the alphabet..
+Hit me up if you need anything!
+<div>
+   <a href="https://www.instagram.com/ikayfsg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+   <a href="https://twitter.com/kayfyak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
+   <a href="https://www.linkedin.com/in/ian-kayf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+   <a href="mailto:kayfsgbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+</div> 
