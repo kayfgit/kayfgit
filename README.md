@@ -11,7 +11,7 @@
 # More About Me
 What's up! I'm Ian (Kayf) Guimarães and I love making anything remotely interesting into my biggest objective in life.
 
-I am currently based in Brazil and focusing on perfecting my Front-End and Mobile knowledge.
+I am currently based in Brazil and focused on perfecting my Front-End and Mobile knowledge.
 </br>
 # Technologies
 <div style="display: inline_block" >
