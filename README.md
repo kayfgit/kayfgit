@@ -2,7 +2,7 @@
    ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
   ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / Planes / Music
   ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Projects: Native Movie App / Website Copies / Font Testing Website 
- ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next / Expo / Git / React / HTML / CSS
+ ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next / Expo / Git / React / Electron / Tauri
 ▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
   ███▐██▄     ███    ███ ███   ███   ███           Email: kayfsgbusiness@gmail.com
   ███ ▀███▄   ███    ███ ███   ███   ███           LinkedIn: https://www.linkedin.com/in/ian-kayf/
@@ -28,13 +28,22 @@ I am currently based in Brazil and focused on perfecting my Front-End and Mobile
 
 # Projects
 
+### [BunchaTools](https://github.com/kayfgit/bunchatools)
+
+Lightning quick and lightweight Tauri app for Windows that offers a variety of useful tools all in one place. Just press the hotkey and search for the tool you need and it will be right at your fingertips, no more having to switch between tools and browsers trying to find what you want!
+
+### [QuickGerman](https://github.com/kayfgit/quickgerman)
+
+Fast Electron translation app that allows users to quick consult the translation of German words to English. Very useful for those learning the language and anyone who works with German.
+
 ### [DevAsLife](https://github.com/kayfgit/copy-of-craftzdog-homepage)
 
 It's a copy of my favorite youtuber's website, he made a video about making it but as I watched I didn't understand anything he was doing, but I knew how to make it the way I learned, so I gave it a shot and made it myself.
 
 ### [CoFonTest](https://github.com/kayfgit/cofontest)
 
-It's my current project (horrible name i know), it's a website that fixes my problem of always wanting to try new fonts for my code editors but not wanting to install each one, so it's basically a giant text editor that fetches from Google-Fonts so that you can try out a bunch of them!
+(Horrible name I know), It's a website that fixes my problem of always wanting to try new fonts for my code editors but not wanting to install each one, so it's basically a giant text editor that fetches from Google-Fonts so that you can try out a bunch of them!
+
 </br>
 # Mobile Projects
 ### [Absolute-Cinema](https://github.com/kayfgit/absolute-cinema)
