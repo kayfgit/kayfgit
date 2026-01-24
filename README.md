@@ -38,13 +38,11 @@ Fast Electron translation app that allows users to quick consult the translation
 
 ### [DevAsLife](https://github.com/kayfgit/copy-of-craftzdog-homepage)
 
-It's a copy of my favorite youtuber's website, he made a video about making it but as I watched I didn't understand anything he was doing, but I knew how to make it the way I learned, so I gave it a shot and made it myself.
+It's a copy of a famous youtuber's website, he made a video about making it but as I watched I didn't understand anything he was doing, but I knew how to make it the way I learned, so I gave it a shot and made it myself.
 
 ### [CoFonTest](https://github.com/kayfgit/cofontest)
 
 (Horrible name I know), It's a website that fixes my problem of always wanting to try new fonts for my code editors but not wanting to install each one, so it's basically a giant text editor that fetches from Google-Fonts so that you can try out a bunch of them!
-
-</br>
 
 # Mobile Projects
 ### [Absolute-Cinema](https://github.com/kayfgit/absolute-cinema)
@@ -66,7 +64,7 @@ It's my second mobile project, I made it basically for myself only, as I wanted 
 
 **Japanese**: I think I have the same level as a 8 year old after 14 months of learning.</br>
 
-**German**: Basic level, I can read some simple texts (A1-A2) and it's the language I'm currently prioritizing (It's really fun).</br>
+**German**: Basic level, I can read some simple texts (A1-A2) and it's the language I'm currently prioritizing.</br>
 
 # Contact
 
