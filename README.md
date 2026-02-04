@@ -1,8 +1,8 @@
 ```
    ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
-  ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / Planes / Music
-  ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Projects: Native Movie App / Website Copies / Font Testing Website 
- ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next / Expo / Git / React / Electron / Tauri
+  ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / A.I / Music
+  ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Projects: Native Movie App / Quick Translator / KAIF
+ ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next / Expo / Vite / React / Electron / Tauri
 ▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
   ███▐██▄     ███    ███ ███   ███   ███           Email: kayfsgbusiness@gmail.com
   ███ ▀███▄   ███    ███ ███   ███   ███           LinkedIn: https://www.linkedin.com/in/ian-kayf/
@@ -28,6 +28,10 @@ I am currently based in Brazil and focused on perfecting my Front-End and Mobile
 
 # Projects
 
+### KAIF (Closed-source)
+
+Personal A.I CLI assistant that has complete and full access to my computer (our computer), made with Python. still in early development.
+
 ### [BunchaTools](https://github.com/kayfgit/bunchatools)
 
 Lightning quick and lightweight Tauri app for Windows that offers a variety of useful tools all in one place. Just press the hotkey and search for the tool you need and it will be right at your fingertips, no more having to switch between tools and browsers trying to find what you want!
@@ -51,7 +55,7 @@ It's my first mobile project with React Native that I made, it's pretty simple, 
 
 ### [Personal System](https://github.com/kayfgit/Personal-System)
 
-It's my second mobile project, I made it basically for myself only, as I wanted an app to motivate me and record/save exercises that I did daily. It's inspired by Solo Leveling's system.
+It's my second mobile project, I made it basically for myself only, as I wanted an app to motivate me and record/save exercises that I did daily.
 </br>
 # Languages
 ### I also really like learning new languages! Here are some of them:
