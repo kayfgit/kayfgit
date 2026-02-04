@@ -30,7 +30,7 @@ I am currently based in Brazil and focused on perfecting my Front-End and Mobile
 
 ### KAIF (Closed-source)
 
-Personal A.I CLI assistant that has complete and full access to my computer (our computer), made with Python. still in early development.
+Personal A.I CLI assistant that has complete and full access to my computer (our computer), made with Python. Still in early development.
 
 ### [BunchaTools](https://github.com/kayfgit/bunchatools)
 
