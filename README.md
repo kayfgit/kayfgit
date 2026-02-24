@@ -28,6 +28,10 @@ I am currently based in Brazil and focused on perfecting my Front-End and Mobile
 
 # Projects
 
+### [Wells](https://github.com/kayfgit/wells)
+
+Ever wondered "Where would I end up if I dug a well straight through the earth where I'm standing?". WELL, now you can find out with this fun and goofy website that shows you the antipode (The other side) of anywhere you click on the globe. 
+
 ### KAIF (Closed-source)
 
 Personal A.I CLI assistant that has complete and full access to my computer (our computer), made with Python. Still in early development.
