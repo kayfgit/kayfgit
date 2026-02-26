@@ -9,9 +9,10 @@
   ██    ▀█▀   ███    █▀   ▀█████▀    ███           Discord: kayf
 ```
 # More About Me
-Sup, I'm Ian (Kayf) Guimarães and I love making anything remotely interesting into my biggest objective in life.
+Sup, I'm Ian (Kayf) Guimarães and I build everything remotely interesting that comes to mind.
 
 I am currently based in Brazil and focused on perfecting my Front-End and Mobile knowledge.
+
 </br>
 # Technologies
 <div style="display: inline_block" >
