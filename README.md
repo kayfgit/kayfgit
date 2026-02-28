@@ -12,9 +12,10 @@
 Sup, I'm Ian (Kayf) Guimarães and I build everything remotely interesting that comes to mind.
 
 I am currently based in Brazil and focused on perfecting my Front-End and Mobile knowledge.
-
 </br>
+
 # Technologies
+
 <div style="display: inline_block" >
    <img alt="html" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img alt="css" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -28,6 +29,10 @@ I am currently based in Brazil and focused on perfecting my Front-End and Mobile
 </div>
 
 # Projects
+
+### [Intent Keyboard](https://github.com/kayfgit/keyboard)
+
+I'm experimenting on how the future of text input will be like, I think this is pretty close (If you exclude brain-computer interface)
 
 ### [Wells](https://github.com/kayfgit/wells)
 
