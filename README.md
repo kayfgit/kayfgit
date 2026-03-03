@@ -1,38 +1,36 @@
+# Web Developer, Tinkerer, Professional ADHD guy
 ```
-   ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
-  ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / A.I / Music
-  ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Projects: Native Movie App / Quick Translator / KAIF
- ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next / Expo / Vite / React / Electron / Tauri
-▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
-  ███▐██▄     ███    ███ ███   ███   ███           Email: kayfsgbusiness@gmail.com
-  ███ ▀███▄   ███    ███ ███   ███   ███           LinkedIn: https://www.linkedin.com/in/ian-kayf/
-  ██    ▀█▀   ███    █▀   ▀█████▀    ███           Discord: kayf
+             ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
+            ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / A.I / Music
+            ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Projects: Native Movie App / Quick Translator / KAIF
+           ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next / Expo / Vite / React / Electron / Tauri
+          ▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
+            ███▐██▄     ███    ███ ███   ███   ███           Email: kayfsgbusiness@gmail.com
+            ███ ▀███▄   ███    ███ ███   ███   ███           LinkedIn: https://www.linkedin.com/in/ian-kayf/
+            ██    ▀█▀   ███    █▀   ▀█████▀    ███           Discord: kayf
 ```
-# More About Me
-Sup, I'm Ian (Kayf) Guimarães and I build everything remotely interesting that comes to mind.
 
-I am currently based in Brazil and focused on perfecting my Front-End and Mobile knowledge.
-</br>
+# About Me
+- Sup, I'm Ian (Kayf) Guimarães and I build everything remotely interesting that comes to mind.
 
-# Technologies
+- I am currently based in Brazil and focused on building projects that are either for goofing around or completely revolutionize current methods.
 
-<div style="display: inline_block" >
-   <img alt="html" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-   <img alt="css" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-   <img alt="tailwindcss" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-   <img alt="expo" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
-   <img alt="typescript" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-   <img alt="javascript" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-   <img alt="next" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-   <img alt="neovim" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-   <img alt="react/reactnative" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
-</div>
+# Contact
+
+👉 Hit me up if you need anything done or get interested in my work:
+
+<div>
+   <a href="https://www.instagram.com/ikayfsg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+   <a href="https://twitter.com/kayfyak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
+   <a href="https://www.linkedin.com/in/ian-kayf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+   <a href="mailto:kayfsgbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+</div> 
 
 # Projects
 
 ### [Intent Keyboard](https://github.com/kayfgit/keyboard)
 
-I'm experimenting on how the future of text input will be like, I think this is pretty close (If you exclude brain-computer interface)
+I'm experimenting on how the future of text input will be like, I think this is pretty close (If you exclude brain-computer interface).
 
 ### [Wells](https://github.com/kayfgit/wells)
 
@@ -40,11 +38,11 @@ Ever wondered "Where would I end up if I dug a well straight through the earth w
 
 ### KAIF (Closed-source)
 
-Personal A.I CLI assistant that has complete and full access to my computer (our computer), made with Python. Still in early development.
+Personal A.I CLI assistant that has full and complete access to my home network, it can do anything ranging from downloading a game to turning on my coffee machine at 6 am. Still in early development.
 
 ### [BunchaTools](https://github.com/kayfgit/bunchatools)
 
-Lightning quick and lightweight Tauri app for Windows that offers a variety of useful tools all in one place. Just press the hotkey and search for the tool you need and it will be right at your fingertips, no more having to switch between tools and browsers trying to find what you want!
+Lightning quick and lightweight Tauri app for Windows that offers a variety of useful tools all in one place. Just press the hotkey and search for the tool you need and it will be right at your fingertips, no more having to switch between tools and browsers trying to find what you want.
 
 ### [QuickGerman](https://github.com/kayfgit/quickgerman)
 
@@ -56,7 +54,7 @@ It's a copy of a famous youtuber's website, he made a video about making it but 
 
 ### [CoFonTest](https://github.com/kayfgit/cofontest)
 
-(Horrible name I know), It's a website that fixes my problem of always wanting to try new fonts for my code editors but not wanting to install each one, so it's basically a giant text editor that fetches from Google-Fonts so that you can try out a bunch of them!
+(Horrible name I know), It's a website that fixes my problem of always wanting to try new fonts for my code editors but not wanting to install each one, so it's basically a giant text editor that fetches from Google-Fonts so that you can try out a bunch of them.
 
 # Mobile Projects
 
@@ -73,7 +71,7 @@ It's my first mobile project with React Native that I made, it's pretty simple, 
 It's my second mobile project, I made it basically for myself only, as I wanted an app to motivate me and record/save exercises that I did daily.
 </br>
 # Languages
-### I also really like learning new languages! Here are some of them:
+### I also really like learning new languages, here are some of them:
 
 **Portuguese**: My native language as I was born and raised in Brazil :)</br>
 
@@ -81,16 +79,8 @@ It's my second mobile project, I made it basically for myself only, as I wanted 
 
 **Spanish**: Never studied it seriously before, but I can easily read and understand it as it's very similar to portuguese.</br>
 
-**Japanese**: I think I have the same level as a 8 year old after 14 months of learning.</br>
+**Japanese**: I think I have the same level as a 8 year old after 14 months of learning...</br>
 
 **German**: Basic level, I can read some simple texts (A1-A2) and it's the language I'm currently prioritizing.</br>
 
-# Contact
-
-Hit me up if you need anything!
-<div>
-   <a href="https://www.instagram.com/ikayfsg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
-   <a href="https://twitter.com/kayfyak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
-   <a href="https://www.linkedin.com/in/ian-kayf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-   <a href="mailto:kayfsgbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
-</div> 
+**Russian and Korean**: I can read the alphabet. That's it.</br>
