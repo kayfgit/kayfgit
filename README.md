@@ -28,6 +28,10 @@
 
 # Projects
 
+### [BenchFider](https://github.com/kayfgit/benches)
+
+Made this community that allows people that actually go outside to find and share beautiful benches with beautiful scenery in the world.
+
 ### [Intent Keyboard](https://github.com/kayfgit/keyboard)
 
 I'm experimenting on how the future of text input will be like, I think this is pretty close (If you exclude brain-computer interface).
@@ -51,10 +55,6 @@ Fast Electron translation app that allows users to quick consult the translation
 ### [DevAsLife](https://github.com/kayfgit/copy-of-craftzdog-homepage)
 
 It's a copy of a famous youtuber's website, he made a video about making it but as I watched I didn't understand anything he was doing, but I knew how to make it the way I learned, so I gave it a shot and made it myself.
-
-### [CoFonTest](https://github.com/kayfgit/cofontest)
-
-(Horrible name I know), It's a website that fixes my problem of always wanting to try new fonts for my code editors but not wanting to install each one, so it's basically a giant text editor that fetches from Google-Fonts so that you can try out a bunch of them.
 
 # Mobile Projects
 
