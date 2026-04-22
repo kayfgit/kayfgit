@@ -1,9 +1,9 @@
-# Web Developer, Tinkerer, Professional ADHD guy
+# Web Developer, Systems Developer, Tinkerer, Professional ADHD guy
 ```
              ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
-            ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / A.I / Music
-            ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Featured Projects: Intent Keyboard / Wells / Buncha
-           ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next.js / Expo / Vite / React
+            ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / Nature / Music
+            ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Featured Projects: Intent Keyboard / Wells / BenchFinder
+           ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next.js / Python / Vite / React
           ▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
             ███▐██▄     ███    ███ ███   ███   ███           Email: kayfsgbusiness@gmail.com
             ███ ▀███▄   ███    ███ ███   ███   ███           LinkedIn: https://www.linkedin.com/in/ian-kayf/
@@ -13,7 +13,7 @@
 # About Me
 - Sup, I'm Ian (Kayf) Guimarães and I build everything remotely interesting that comes to mind.
 
-- I am currently based in Brazil and focused on building projects that are either for goofing around or completely revolutionize current methods.
+- I am currently based in Brazil and focused on building projects that are either for goofing around or make current methods more efficient.
 
 # Contact
 
