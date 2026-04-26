@@ -1,4 +1,4 @@
-# Web Developer, Systems Developer, Tinkerer, Professional ADHD guy
+# T-shaped Developer, Tinkerer, Professional ADHD guy
 ```
              ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
             ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / Nature / Music
@@ -13,7 +13,7 @@
 # About Me
 - Sup, I'm Ian (Kayf) Guimarães and I build everything remotely interesting that comes to mind.
 
-- I am currently based in Brazil and focused on building projects that are either for goofing around or make current methods more efficient.
+- I am currently based in Brazil and focused on building projects that are either for goofing around or making current methods more efficient.
 
 # Contact
 
