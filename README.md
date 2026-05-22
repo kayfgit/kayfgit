@@ -2,7 +2,7 @@
 ```
              ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
             ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / Nature / Music
-            ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Featured Projects: Intent Keyboard / Wells / BenchFinder
+            ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Featured Projects: RedSun / Wells / BenchFinder
            ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next.js / Python / Vite / React
           ▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
             ███▐██▄     ███    ███ ███   ███   ███           Email: kayfsgbusiness@gmail.com
@@ -27,6 +27,10 @@
 </div> 
 
 # Projects
+
+### [RedSun](https://github.com/kayfgit/redsun)
+
+As a chinese mandarin learner I'm constantly forgetting and learning new kanzi, so I made this website that brings all the consulting tools into one place. Hope this helps other learners too!
 
 ### [BenchFider](https://github.com/kayfgit/benches)
 
@@ -66,9 +70,6 @@ Mobile app made with Kotlin and Jetpack Compose that allows connection to KAIF a
 
 It's my first mobile project with React Native that I made, it's pretty simple, just used OMDb API to search for movies and a "Favorites" tab to save movies with async storage.
 
-### [Personal System](https://github.com/kayfgit/Personal-System)
-
-It's my second mobile project, I made it basically for myself only, as I wanted an app to motivate me and record/save exercises that I did daily.
 </br>
 # Languages
 ### I also really like learning new languages, here are some of them:
