@@ -32,6 +32,10 @@
 
 As a chinese mandarin learner I'm constantly forgetting and learning new kanzi, so I made this website that brings all the consulting tools into one place. Hope this helps other learners too!
 
+### [Browser](https://github.com/kayfgit/browser)
+
+Custom browser, made for myself and my terrible terrible computer, testing audacious stuff.
+
 ### [BenchFider](https://github.com/kayfgit/benches)
 
 Made this community that allows people that actually go outside to find and share beautiful benches with beautiful scenery in the world.
