@@ -75,6 +75,7 @@ Mobile app made with Kotlin and Jetpack Compose that allows connection to KAIF a
 It's my first mobile project with React Native that I made, it's pretty simple, just used OMDb API to search for movies and a "Favorites" tab to save movies with async storage.
 
 </br>
+
 # Languages
 ### I also really like learning new languages, here are some of them:
 
