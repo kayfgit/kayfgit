@@ -2,7 +2,7 @@
 ```
              ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
             ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / Nature / Music
-            ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Featured Projects: RedSun / Wells / BenchFinder
+            ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Featured Projects: RedSun / Wells / From2To
            ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next.js / Python / Vite / React
           ▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
             ███▐██▄     ███    ███ ███   ███   ███           Email: kayfsgbusiness@gmail.com
@@ -11,7 +11,7 @@
 ```
 
 # About Me
-- Sup, I'm Ian (Kayf) Guimarães and I build everything remotely interesting that comes to mind.
+- Sup, I'm Ian (Kayf) Guimarães and I build anything remotely interesting that comes to mind.
 
 - I am currently based in Brazil and focused on building projects that are either for goofing around or making current methods more efficient.
 
@@ -27,6 +27,10 @@
 </div> 
 
 # Projects
+
+### [From2To](https://github.com/kayfgit/from2to)
+
+CLI program built in Rust designed to help programmers make easy and fast conversions without having to memorize a huge command or go into Python3. Just choose a base, add a 2, add another base and you're set.
 
 ### [RedSun](https://github.com/kayfgit/redsun)
 
@@ -48,10 +52,6 @@ I'm experimenting on how the future of text input will be like, I think this is 
 
 Ever wondered "Where would I end up if I dug a well straight through the earth where I'm standing?". WELL, now you can find out with this fun and goofy website that shows you the antipode (The other side) of anywhere you click on the globe. 
 
-### KAIF (Closed-source)
-
-Personal A.I CLI assistant that has full and complete access to my home network, it can do anything ranging from downloading a game to turning on my coffee machine at 6 am. Still in early development.
-
 ### [BunchaTools](https://github.com/kayfgit/bunchatools)
 
 Lightning quick and lightweight Tauri app for Windows that offers a variety of useful tools all in one place. Just press the hotkey and search for the tool you need and it will be right at your fingertips, no more having to switch between tools and browsers trying to find what you want.
@@ -65,10 +65,6 @@ Fast Electron translation app that allows users to quick consult the translation
 It's a copy of a famous youtuber's website, he made a video about making it but as I watched I didn't understand anything he was doing, but I knew how to make it the way I learned, so I gave it a shot and made it myself.
 
 # Mobile Projects
-
-### KAIF-REMOTE (Closed-source)
-
-Mobile app made with Kotlin and Jetpack Compose that allows connection to KAIF anywhere in the world using a relay server.
 
 ### [Absolute-Cinema](https://github.com/kayfgit/absolute-cinema)
 
@@ -85,7 +81,7 @@ It's my first mobile project with React Native that I made, it's pretty simple, 
 
 **Spanish**: Never studied it seriously before, but I can easily read and understand it as it's very similar to portuguese.</br>
 
-**Japanese**: I think I have the same level as a 8 year old after 14 months of learning...</br>
+**Japanese**: After 18 months of learning, I think I have the same level as a japanese 8 year old...</br>
 
 **German**: Basic level, I can read some simple texts (A1-A2) and it's the language I'm currently prioritizing.</br>
 
