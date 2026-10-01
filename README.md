@@ -1,88 +1,88 @@
-# T-shaped Developer, Tinkerer, Professional ADHD guy
 ```
-             ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # ABOUT
-            ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    Hobbies: Everything / Polyglot / Nature / Music
-            ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     Featured Projects: RedSun / Wells / From2To
-           ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        Stack: TypeScript / Next.js / Python / Vite / React
-          ▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # CONTACT
-            ███▐██▄     ███    ███ ███   ███   ███           Email: kayfsgbusiness@gmail.com
-            ███ ▀███▄   ███    ███ ███   ███   ███           LinkedIn: https://www.linkedin.com/in/ian-kayf/
-            ██    ▀█▀   ███    █▀   ▀█████▀    ███           Discord: kayf
+   ▄█   ▄█▄    ▄████████ ▄██   ▄      ▄████████    # RIGHT NOW
+  ███ ▄███▀   ███    ███ ███   ██▄   ███    ███    building: a browser (scroll down)
+  ███▐██▀     ███    ███ ███▄▄▄███   ███    █▀     learning: german, badly
+ ▄█████▀      ███    ███ ▀▀▀▀▀▀███  ▄███▄▄▄        computer: still terrible
+▀▀█████▄    ▀███████████ ▄██   ███ ▀▀███▀▀▀        # FIND ME
+  ███▐██▄     ███    ███ ███   ███   ███           discord: kayf
+  ███ ▀███▄   ███    ███ ███   ███   ███           twitter: @kayfyak
+  ██    ▀█▀   ███    █▀   ▀█████▀    ███           mail:    kayfsgbusiness@gmail.com
 ```
 
-# About Me
-- Sup, I'm Ian (Kayf) Guimarães and I build anything remotely interesting that comes to mind.
+hi hello i'm kayf. i make whatever seems fun at ungodly times. here's the stuff.
 
-- I am currently based in Brazil and focused on building projects that are either for goofing around or making current methods more efficient.
+---
 
-# Contact
+## 🧭 [browser](https://github.com/kayfgit/browser) ← the big one
 
-👉 Hit me up if you need anything done or get interested in my work:
+my computer is bad. chrome makes it worse. so i'm writing my own browser in rust.
 
-<div>
-   <a href="https://www.instagram.com/iankayf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
-   <a href="https://twitter.com/kayfyak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
-   <a href="https://www.linkedin.com/in/ian-kayf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-   <a href="mailto:kayfsgbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
-</div> 
+it's keyboard-only and vim-brained (think qutebrowser), and every tab runs on the
+**lightest thing that can still show it**:
 
-# Projects
+```
+:open   github.com     →  a real web tab (webview2, only starts when you need it)
+:research some-blog    →  web tab with video, audio and embeds ripped out
+:read   some-article   →  just the text, drawn natively. no engine. a few MB
+:te                    →  your shell, in a tab, because why not
+```
 
-### [From2To](https://github.com/kayfgit/from2to)
+with nothing open it idles at about **30 MB with zero engine processes**. your
+chrome tab with this readme open is using more than that right now.
 
-CLI program built in Rust designed to help programmers make easy and fast conversions without having to memorize a huge command or go into Python3. Just choose a base, add a 2, add another base and you're set.
+other stuff it does:
 
-### [RedSun](https://github.com/kayfgit/redsun)
+- `f` to slap a label on every link and type it to click. mouse optional
+- tmux-style splits where one pane is a web page and the next is a terminal
+- uBlock Origin Lite built in, plus its own thing that stops sneaky pop-unders
+- `!yt lofi`, `!gh wry` and 13,000+ other bangs, plus `:20*8` → `= 160`
+- `:w` saves your whole layout, `:profile work` swaps to a different one
+- `U` / `R` to undo and redo closing a tab or messing up your splits
+- `:res` shows exactly how much ram/cpu each bit is eating
+- an optional `:ai` assistant if you bring your own groq key
 
-As a chinese mandarin learner I'm constantly forgetting and learning new kanzi, so I made this website that brings all the consulting tools into one place. Hope this helps other learners too!
+windows only, alpha, i use it every day.
+[grab it here](https://github.com/kayfgit/browser/releases/latest) and tell me when it breaks.
 
-### [Browser](https://github.com/kayfgit/browser)
+<!-- put a gif of you flying around with hints + splits here. it'll sell it way better than words -->
 
-Custom browser, made for myself and my terrible terrible computer, testing audacious stuff.
+---
 
-### [BenchFider](https://github.com/kayfgit/benches)
+## 🛠️ things i made because something annoyed me
 
-Made this community that allows people that actually go outside to find and share beautiful benches with beautiful scenery in the world.
+**[from2to](https://github.com/kayfgit/from2to)** · rust cli
+base conversions without remembering a weird command or opening python. `hex2bin ff`. done.
+~83 little commands like that, one `cargo install from2to` away.
 
-### [Intent Keyboard](https://github.com/kayfgit/keyboard)
+**[bunchatools](https://github.com/kayfgit/bunchatools)** · tauri
+hit a hotkey, search, get the tool. no more 14 tabs of "online json formatter".
 
-I'm experimenting on how the future of text input will be like, I think this is pretty close (If you exclude brain-computer interface).
+**[intent keyboard](https://github.com/kayfgit/keyboard)**
+my guess at what typing looks like in the future (until they put chips in our heads).
 
-### [Wells](https://github.com/kayfgit/wells)
+## 🈶 things i made because languages are hard
 
-Ever wondered "Where would I end up if I dug a well straight through the earth where I'm standing?". WELL, now you can find out with this fun and goofy website that shows you the antipode (The other side) of anywhere you click on the globe. 
+**[redsun](https://github.com/kayfgit/redsun)**
+i keep forgetting hanzi, so i put every lookup tool for mandarin in one place.
 
-### [BunchaTools](https://github.com/kayfgit/bunchatools)
+**[quickgerman](https://github.com/kayfgit/quickgerman)** · electron
+german → english in about a second. you'll need it a lot if you learn german, trust me.
 
-Lightning quick and lightweight Tauri app for Windows that offers a variety of useful tools all in one place. Just press the hotkey and search for the tool you need and it will be right at your fingertips, no more having to switch between tools and browsers trying to find what you want.
+## 🌍 things i made for no reason at all
 
-### [QuickGerman](https://github.com/kayfgit/quickgerman)
+**[wells](https://github.com/kayfgit/wells)**
+if you dug straight down, where would you come out? click the globe. (probably the ocean. it's always the ocean.)
 
-Fast Electron translation app that allows users to quick consult the translation of German words to English. Very useful for those learning the language and anyone who works with German.
+**[benchfinder](https://github.com/kayfgit/benches)**
+find benches with nice views and share your own. it's for people who go outside, which i've heard about.
 
-### [DevAsLife](https://github.com/kayfgit/copy-of-craftzdog-homepage)
+**[devaslife](https://github.com/kayfgit/copy-of-craftzdog-homepage)**
+watched craftzdog build his site, understood nothing, so i built it again my own way.
 
-It's a copy of a famous youtuber's website, he made a video about making it but as I watched I didn't understand anything he was doing, but I knew how to make it the way I learned, so I gave it a shot and made it myself.
+**[absolute cinema](https://github.com/kayfgit/absolute-cinema)** · react native
+my first mobile app. search movies, star the good ones. that's the whole app.
 
-# Mobile Projects
+---
 
-### [Absolute-Cinema](https://github.com/kayfgit/absolute-cinema)
-
-It's my first mobile project with React Native that I made, it's pretty simple, just used OMDb API to search for movies and a "Favorites" tab to save movies with async storage.
-
-</br>
-
-# Languages
-### I also really like learning new languages, here are some of them:
-
-**Portuguese**: My native language as I was born and raised in Brazil :)</br>
-
-**English**: My second best language, I am very confident in it.</br>
-
-**Spanish**: Never studied it seriously before, but I can easily read and understand it as it's very similar to portuguese.</br>
-
-**Japanese**: After 18 months of learning, I think I have the same level as a japanese 8 year old...</br>
-
-**German**: Basic level, I can read some simple texts (A1-A2) and it's the language I'm currently prioritizing.</br>
-
-**Russian and Korean**: I can read the alphabet. That's it.</br>
+<sub>i also speak portuguese 🇧🇷 and english, read spanish by accident, know japanese like an 8 year old,
+am fighting german, and can read the russian and korean alphabets, which is about all i can do with them.</sub>
