@@ -44,8 +44,6 @@ other stuff it does:
 windows only, alpha, i use it every day.
 [grab it here](https://github.com/kayfgit/browser/releases/latest) and tell me when it breaks.
 
-<!-- put a gif of you flying around with hints + splits here. it'll sell it way better than words -->
-
 ---
 
 ## 🛠️ things i made because something annoyed me
