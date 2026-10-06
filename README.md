@@ -13,11 +13,11 @@ hi hello i'm kayf. i make whatever seems fun at ungodly times. here's the stuff.
 
 ---
 
-## 🧭 [browser](https://github.com/kayfgit/browser) ← the big one
+## 🧭 [browser](https://github.com/kayfgit/browser) ← the best one
 
-my computer is bad. chrome makes it worse. so i'm writing my own browser in rust.
+my computer is bad, VERY bad. chrome makes it worse. so i'm writing my own browser in rust.
 
-it's keyboard-only and vim-brained (think qutebrowser), and every tab runs on the
+it's keyboard-only and vim-brained (like qutebrowser), and every tab runs on the
 **lightest thing that can still show it**:
 
 ```
@@ -63,7 +63,7 @@ my guess at what typing looks like in the future (until they put chips in our he
 **[redsun](https://github.com/kayfgit/redsun)**
 i keep forgetting hanzi, so i put every lookup tool for mandarin in one place.
 
-**[quickgerman](https://github.com/kayfgit/quickgerman)** · electron
+**[quickgerman](https://github.com/kayfgit/quickgerman)** · electron (will probably remake in tauri because electron sucks)
 german → english in about a second. you'll need it a lot if you learn german, trust me.
 
 ## 🌍 things i made for no reason at all
