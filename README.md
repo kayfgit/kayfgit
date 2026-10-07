@@ -52,8 +52,8 @@ windows only, alpha, i use it every day.
 base conversions without remembering a weird command or opening python. `hex2bin ff`. done.
 ~83 little commands like that, one `cargo install from2to` away.
 
-**[bunchatools](https://github.com/kayfgit/bunchatools)** · tauri
-hit a hotkey, search, get the tool. no more 14 tabs of "online json formatter".
+**[Lupa](https://github.com/kayfgit/Lupa)**
+windows only toggleable zoom utility, because linux has enough of those.
 
 **[intent keyboard](https://github.com/kayfgit/keyboard)**
 my guess at what typing looks like in the future (until they put chips in our heads).
