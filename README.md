@@ -52,7 +52,7 @@ windows only, alpha, i use it every day.
 base conversions without remembering a weird command or opening python. `hex2bin ff`. done.
 ~83 little commands like that, one `cargo install from2to` away.
 
-**[Lupa](https://github.com/kayfgit/Lupa)**
+**[lupa](https://github.com/kayfgit/Lupa)**
 windows only toggleable zoom utility, because linux has enough of those.
 
 **[intent keyboard](https://github.com/kayfgit/keyboard)**
