@@ -13,7 +13,7 @@ hi hello i'm kayf. i make whatever seems fun at ungodly times. here's the stuff.
 
 ---
 
-## 🧭 [browser](https://github.com/kayfgit/browser) ← the best one
+## [browser](https://github.com/kayfgit/browser) ← the best one
 
 my computer is bad, VERY bad. chrome makes it worse. so i'm writing my own browser in rust.
 
@@ -46,7 +46,7 @@ windows only, alpha, i use it every day.
 
 ---
 
-## 🛠️ things i made because something annoyed me
+## things i made because something annoyed me
 
 **[from2to](https://github.com/kayfgit/from2to)** · rust cli
 base conversions without remembering a weird command or opening python. `hex2bin ff`. done.
@@ -58,15 +58,15 @@ windows only toggleable zoom utility, because linux has enough of those.
 **[intent keyboard](https://github.com/kayfgit/keyboard)**
 my guess at what typing looks like in the future (until they put chips in our heads).
 
-## 🈶 things i made because languages are hard
+## things i made because languages are hard
 
 **[redsun](https://github.com/kayfgit/redsun)**
 i keep forgetting hanzi, so i put every lookup tool for mandarin in one place.
 
-**[quickgerman](https://github.com/kayfgit/quickgerman)** · electron (will probably remake in tauri because electron sucks)
-german → english in about a second. you'll need it a lot if you learn german, trust me.
+**[tradu](https://github.com/kayfgit/tradu)** 
+most efficient translator app ever created. for power-users.
 
-## 🌍 things i made for no reason at all
+## things i made for no reason at all
 
 **[wells](https://github.com/kayfgit/wells)**
 if you dug straight down, where would you come out? click the globe. (probably the ocean. it's always the ocean.)
