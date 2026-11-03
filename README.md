@@ -55,6 +55,9 @@ base conversions without remembering a weird command or opening python. `hex2bin
 **[lupa](https://github.com/kayfgit/Lupa)**
 windows only toggleable zoom utility, because linux has enough of those.
 
+**[flagra](https://github.com/kayfgit/flagra)** 
+shadowplay doesn't work on my pc, so i made my own clip tool. for power-users
+
 **[intent keyboard](https://github.com/kayfgit/keyboard)**
 my guess at what typing looks like in the future (until they put chips in our heads).
 
@@ -64,7 +67,7 @@ my guess at what typing looks like in the future (until they put chips in our he
 i keep forgetting hanzi, so i put every lookup tool for mandarin in one place.
 
 **[tradu](https://github.com/kayfgit/tradu)** 
-most efficient translator app ever created. for power-users.
+most efficient translator app ever created. again, for power-users.
 
 ## things i made for no reason at all
 
