@@ -56,7 +56,7 @@ base conversions without remembering a weird command or opening python. `hex2bin
 windows only toggleable zoom utility, because linux has enough of those.
 
 **[flagra](https://github.com/kayfgit/flagra)** 
-shadowplay doesn't work on my pc, so i made my own clip tool. for power-users
+shadowplay doesn't work on my pc, so i made my own clip tool. for power-users.
 
 **[intent keyboard](https://github.com/kayfgit/keyboard)**
 my guess at what typing looks like in the future (until they put chips in our heads).
