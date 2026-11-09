@@ -48,7 +48,7 @@ windows only, alpha, i use it every day.
 
 ## things i made because something annoyed me
 
-**[from2to](https://github.com/kayfgit/from2to)** · rust cli
+**[from2to](https://github.com/kayfgit/from2to)**
 base conversions without remembering a weird command or opening python. `hex2bin ff`. done.
 ~83 little commands like that, one `cargo install from2to` away.
 
@@ -89,7 +89,7 @@ find benches with nice views and share your own. it's for people who go outside,
 **[devaslife](https://github.com/kayfgit/copy-of-craftzdog-homepage)**
 watched craftzdog build his site, understood nothing, so i built it again my own way.
 
-**[absolute cinema](https://github.com/kayfgit/absolute-cinema)** · react native
+**[absolute cinema](https://github.com/kayfgit/absolute-cinema)**
 my first mobile app. search movies, star the good ones. that's the whole app.
 
 ---
