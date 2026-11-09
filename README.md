@@ -58,8 +58,11 @@ windows only toggleable zoom utility, because linux has enough of those.
 **[flagra](https://github.com/kayfgit/flagra)** 
 shadowplay doesn't work on my pc, so i made my own clip tool. for power-users.
 
-**[intent keyboard](https://github.com/kayfgit/keyboard)**
-my guess at what typing looks like in the future (until they put chips in our heads).
+**[tecla](https://github.com/kayfgit/tecla)**
+tried a bunch of mobile keyboards, all of the best features of each one is on this app.
+
+**[risco](https://github.com/kayfgit/risco)**
+productivity and efficiency focused android launcher.
 
 ## things i made because languages are hard
 
@@ -69,7 +72,13 @@ i keep forgetting hanzi, so i put every lookup tool for mandarin in one place.
 **[tradu](https://github.com/kayfgit/tradu)** 
 most efficient translator app ever created. again, for power-users.
 
+**[quickgerman](https://github.com/kayfgit/quickgerman)** 
+translator app solely for german learning, now it's completely outshadowed by tradu.
+
 ## things i made for no reason at all
+
+**[intent keyboard](https://github.com/kayfgit/keyboard)**
+my guess at what typing looks like in the future (until they put chips in our heads).
 
 **[wells](https://github.com/kayfgit/wells)**
 if you dug straight down, where would you come out? click the globe. (probably the ocean. it's always the ocean.)
