@@ -65,7 +65,7 @@ tried a bunch of mobile keyboards, all of the best features of each one is on th
 productivity and efficiency focused android launcher.
 
 **[grifo](https://github.com/kayfgit/grifo)**
-friend that studied the law for 6 years asked me to build him a custom app to help him study. this is the best one he ever used.
+friend that studied the law for 6 years asked me to build him a custom app to help him study. "dude this is the best one ive ever used" - friend.
 
 ## things i made because languages are hard
 
